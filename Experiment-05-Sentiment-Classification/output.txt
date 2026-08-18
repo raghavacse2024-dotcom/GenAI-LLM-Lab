@@ -1,0 +1,15 @@
+SAMPLE INPUT
+Two product reviews + one news sentence with candidate labels [Politics, Economy, Sports, Technology]
+
+SAMPLE OUTPUT
+Review: The new smartphone has an amazing camera and battery life!
+ -> POSITIVE (0.999)
+
+Review: The delivery was late and the packaging was damaged.
+ -> NEGATIVE (0.998)
+
+Document: The central bank raised interest rates to control rising inflation.
+Economy: 0.94
+Politics: 0.04
+Technology: 0.01
+Sports: 0.01
