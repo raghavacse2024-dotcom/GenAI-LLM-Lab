@@ -1,0 +1,10 @@
+SAMPLE INPUT
+IMDB movie review dataset (2000 training samples, 500 test samples), 2 epochs fine-tuning
+
+SAMPLE OUTPUT
+Epoch 1/2 - loss: 0.41 - accuracy: 0.83
+Epoch 2/2 - loss: 0.24 - accuracy: 0.89
+Evaluation metrics: {'eval_loss': 0.28, 'eval_accuracy': 0.887}
+
+NOTE
+Training loss and accuracy are sample values from the lab manual and can differ on another run.
