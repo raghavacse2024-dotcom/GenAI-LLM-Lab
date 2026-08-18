@@ -1,0 +1,6 @@
+SAMPLE INPUT
+query = "What is RAG in AI?"
+
+SAMPLE OUTPUT
+Retrieved Context: ['Retrieval-Augmented Generation combines document retrieval with text generation.', 'Vector databases store embeddings and support fast similarity search.']
+Answer: RAG combines document retrieval with text generation using vector databases.
