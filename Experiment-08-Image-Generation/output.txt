@@ -1,0 +1,8 @@
+SAMPLE INPUT
+prompt = "A futuristic city skyline at sunset, digital art, highly detailed"
+
+SAMPLE OUTPUT
+Image generated and saved as generated_city.png
+
+OUTPUT DESCRIPTION
+A 512x512 PNG image showing a futuristic city skyline with warm sunset lighting is produced and saved to disk.
