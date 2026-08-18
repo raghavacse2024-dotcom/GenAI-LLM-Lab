@@ -1,0 +1,10 @@
+SAMPLE INPUT
+>> User: Hi, how are you?
+>> User: What can you help me with?
+
+SAMPLE OUTPUT
+Bot: I'm doing great, thanks for asking! How about you?
+Bot: I can chat with you about almost anything - just ask away!
+
+NOTE
+DialoGPT uses sampling, so the exact replies may vary between runs.
