@@ -1,0 +1,10 @@
+SAMPLE INPUT
+Image of a dog in a field + Question: 'What animal is in the picture?'
+
+SAMPLE OUTPUT
+Generated Caption: a dog running through a grassy field
+Question: What animal is in the picture?
+Answer: dog
+
+NOTE
+The exact caption can vary with model version and the supplied image URL.
